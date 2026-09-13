@@ -1,8 +1,6 @@
-# Polash Research Portfolio — V5
+# Polash Research Portfolio 
 
 A bright, motion-rich React + Vite research portfolio for Md. Saymon Hosen Polash.
-
-## Major V5 changes
 
 - Bright warm visual system: cream, amber, coral, green and lime. No blue-gradient theme.
 - The homepage cutout portrait is tightly cropped from the supplied transparent PNG so the person appears much larger without changing the photograph.
@@ -55,3 +53,7 @@ npm run preview
 ## GitHub Pages
 
 The app uses `HashRouter` and Vite `base: './'`, which makes it suitable for GitHub Pages. The included GitHub Actions workflow builds and deploys the `dist/` folder.
+
+
+<img width="948" height="440" alt="image" src="https://github.com/user-attachments/assets/b4c2aa8f-001a-4ae9-b6d7-a9a2aea5af9f" />
+
